@@ -3,6 +3,7 @@
 ![Header Dark mode](https://user-images.githubusercontent.com/72456774/196979435-c4b65901-8d5a-4efe-adf2-e331a263e3e1.png)
 
 Hey, I'm Vinayak aka louremipsum
+
 I'm a UI/UX designer and Frontend Developer who loves learning new things and coding in general with a passion for problem solving and pattern spotting.
 
 ## 🔭 I’m currently working on ...
