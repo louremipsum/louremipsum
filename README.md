@@ -6,7 +6,11 @@ Hey, I'm Vinayak aka louremipsum
 
 I'm a UI/UX designer and Frontend Developer who loves learning new things and coding in general with a passion for problem solving and pattern spotting.
 
-## 🔭 I’m currently working on ...
+## 🔭 Things I have done
+- IngritoFood -> See what recipes can be made from the ingredients you have at hand. 
+Made with ReactJS and C++ backend and a TCP Server written in C++ to communicate between [frontend](https://github.com/louremipsum/ingritofood) and [backend](https://github.com/louremipsum/ingritofood-backend).
+
+## 🔨 I’m currently working on ...
 - Expresion.li which is my testing playground to test and learn new things
 
 ## 🌱 I’m currently learning ...
