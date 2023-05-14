@@ -15,6 +15,8 @@ I'm a UI/UX designer and Frontend Developer who loves learning new things and co
 ## 🔭 Things I have done
 - IngritoFood -> See what recipes can be made from the ingredients you have at hand. 
 Made with ReactJS and C++ backend and a TCP Server written in C++ to communicate between [frontend](https://github.com/louremipsum/ingritofood) and [backend](https://github.com/louremipsum/ingritofood-backend).
+- [Virgil](https://github.com/louremipsum/Virgil) -> A minimal search engine implementation 
+Made with ReactJS(+Mantine+React-Router), Python, MongoDB and Redis with a custom Wikipedia Spider
 
 ## 🔨 I’m currently working on ...
 - Expresion.li which is my testing playground to test and learn new things
