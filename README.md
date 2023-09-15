@@ -8,11 +8,6 @@ Hey, I'm Vinayak aka louremipsum
 I'm a Frontend Developer and UI/UX designer who loves learning new things and coding in general with a passion for problem solving and pattern spotting.
 You can talk to me about coding, anime/manga/manhua, philosophy or any other random shi-(lol).
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Louremipsum&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Louremipsum&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Louremipsum&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🔭 Things I have done
 - IngritoFood :: See what recipes can be made from the ingredients you have at hand. 
 Made with ReactJS and C++ backend and a TCP Server written in C++ to communicate between [frontend](https://github.com/louremipsum/ingritofood) and [backend](https://github.com/louremipsum/ingritofood-backend).
