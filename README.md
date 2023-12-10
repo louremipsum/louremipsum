@@ -18,8 +18,6 @@ Made with ReactJS(+Mantine+React-Router), Python, MongoDB and Redis with a custo
 - Learning new tech to increase my global brain context
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Louremipsum&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Louremipsum&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Louremipsum&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌱 I’m currently learning ...
