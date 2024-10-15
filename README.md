@@ -5,10 +5,12 @@
 
 Hey, I'm Vinayak aka louremipsum
 
-I'm a Frontend Developer and UI/UX designer who loves learning new things and coding in general with a passion for problem-solving and pattern spotting.
-You can talk to me about coding, anime/manga/manhua, philosophy or any other random shi-(lol).
+I'm a software developer who loves building new things, including stuff apart from the front end.
+You can talk to me about coding, anime/manga/manhua/manhwa, philosophy, movies or any other random shi-(lol).
 
 ## 🔭 Things I have done
+- [Learn Terminal](https://github.com/louremipsum/learnterminal) :: LearnTerminal is a web-based application that allows users to learn and practice terminal commands in a safe sandbox environment. This project is built with Next.js for the frontend, Express for the backend, and Docker to create isolated environments for each user session.
+- [CheckEmails](https://github.com/louremipsum/checkemails) :: Check.Email is an application that classifies emails using AI. It leverages the power of Supabase for authentication services and Google's Gmail API for email interactions.
 - [Qriosity](https://github.com/louremipsum/qriosity) :: Build Temporary QRs with Dynamic Content and Controls so you can change them even after distribution using AWS(API Gateway, Lambda, DynamoDB, IAM, Cloudwatch) and NextJS 14.
 - [Virgil](https://github.com/louremipsum/Virgil) :: A minimal search engine implementation 
 Made with ReactJS(+Mantine+React-Router), Python, MongoDB and Redis with a custom Wikipedia Spider
@@ -24,7 +26,6 @@ Made with ReactJS and C++ backend and a TCP Server written in C++ to communicate
 ## 🌱 I’m currently learning ...
 - React
 - NextJS
-- UI / UX Designing
 - Typescript
 - C++
 
@@ -33,7 +34,7 @@ Made with ReactJS and C++ backend and a TCP Server written in C++ to communicate
 
 ## 📫 How to reach me: ...
 - [Twitter](https://twitter.com/louremipsum)
-- [Linkedin](https://www.linkedin.com/in/louremipsum/)
+- [Linkedin](https://www.linkedin.com/in/nigamvinayak/)
 - Discord(louremipsum#1943)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
