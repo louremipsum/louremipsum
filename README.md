@@ -36,7 +36,7 @@ Made with ReactJS and C++ backend and a TCP Server written in C++ to communicate
 - [Twitter](https://twitter.com/louremipsum)
 - [Linkedin](https://www.linkedin.com/in/nigamvinayak/)
 - Discord(louremipsum#1943)
-
+- [Bento](https://bento.me/louremipsum)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **louremipsum/louremipsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
